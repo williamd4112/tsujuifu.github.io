@@ -1,4 +1,4 @@
 # Personal Website
 
-(Tsu-Jui Fu)[https://tsujuifu.github.io]
+[Tsu-Jui Fu](https://tsujuifu.github.io)
 
