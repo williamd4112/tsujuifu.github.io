@@ -198,9 +198,15 @@ p {
 }
 .main-wrapper .experiences-section .item {
 	margin-bottom: 30px;
-	
+}
+.main-wrapper .experiences-section .item .inner-item {
+	display: inline-block;
 	width: 68%;
 }
+.main-wrapper .experiences-section .item .avatar {
+	display: inline-block;
+	float: right;
+}	
 .main-wrapper .educations-section .item {
   margin-bottom: 30px;
 }
@@ -240,9 +246,15 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
-  
+  margin-bottom: 55px;
+}
+.main-wrapper .projects-section .item .inner-item {
   width: 68%;
+  display: inline-block;
+}
+.main-wrapper .projects-section .item .avatar {
+  display: inline-block;
+  float: right;
 }
 .main-wrapper .publication-title {
   font-size: 16px;
@@ -257,9 +269,15 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .publications-section .item {
-  margin-bottom: 15px;
-  
+  margin-bottom: 55px;
+}
+.main-wrapper .publications-section .item .inner-item {  
   width: 68%;
+  display: inline-block;
+}
+.main-wrapper .publications-section .item .avatar {  
+  display: inline-block;
+  float: right;
 }
 .skillset .item {
   margin-bottom: 10px;
