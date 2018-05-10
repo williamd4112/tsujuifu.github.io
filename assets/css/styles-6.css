@@ -196,7 +196,11 @@ p {
 .main-wrapper .section {
   margin-bottom: 60px;
 }
-.main-wrapper .experiences-section .item,
+.main-wrapper .experiences-section .item {
+	margin-bottom: 30px;
+	
+	width: 68%;
+}
 .main-wrapper .educations-section .item {
   margin-bottom: 30px;
 }
@@ -237,6 +241,8 @@ p {
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
+  
+  width: 68%;
 }
 .main-wrapper .publication-title {
   font-size: 16px;
@@ -252,6 +258,8 @@ p {
 }
 .main-wrapper .publications-section .item {
   margin-bottom: 15px;
+  
+  width: 68%;
 }
 .skillset .item {
   margin-bottom: 10px;
